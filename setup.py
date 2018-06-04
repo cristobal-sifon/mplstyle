@@ -10,7 +10,7 @@ Custom matplotlib styles library.
 In order to activate the libraries in this repository, please execute
 the following commands
 
-$ cd ~/.matplotlib
+$ cd ~/.config/matplotlib/
 $ ln -s {0} stylelib
 
 you may then activate any of the available styles with
